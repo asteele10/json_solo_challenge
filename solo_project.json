@@ -1,0 +1,18 @@
+{
+  "firstName":"Ashley","lastName":"Steele",
+
+"favoriteFoods": [
+  {"Italian": "Pasta"},
+  {"Mexican": "Enchiladas"},
+  {"Thai": "Pad See Yew"}
+],
+
+"hotLineBling":"true",
+
+"favoriteMovies":[
+  {"Houseguest": "1995"},
+  {"Sex And The City": "2008"},
+  {"The Conjuring": "2013"}
+  ]
+
+}
